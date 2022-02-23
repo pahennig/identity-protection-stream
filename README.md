@@ -24,4 +24,4 @@ The following diagram described this procedure and the usage of the exception li
     <img src="img/use_case.png" width=500>
 </div>
 
-Given the fact that a particular user might trigger an alert in the future, ensure you also have a TTL for the exception list or any sort of automation in place (e.g., Once user changes his/her password, the list is updated accordingly)
+Given the fact that a particular user might trigger another alert in the future, ensure you also have a TTL for the exception list or any sort of automation in place (e.g., Once user changes his/her password, the list is updated accordingly)
